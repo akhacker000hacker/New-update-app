@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "update_required": true,
+  "download_link": "https://example.com/yourapp.apk",
+  "message": "New update available. Please update now."
+}
